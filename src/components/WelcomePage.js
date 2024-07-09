@@ -40,9 +40,6 @@ const WelcomeHero = () => {
                 <div className="mx-auto max-w-screen-2xl px-4 md:px-8">
                     <section className="flex flex-col items-center">
                         <div className="flex max-w-xl flex-col items-center pb-0 pt-8 text-center">
-                            <p className="mb-4 font-semibold text-green-500 md:mb-6 md:text-lg xl:text-xl bg-green-50 px-2 rounded-lg">
-                                Very proud to introduce 🎉
-                            </p>
 
                             <h1 className="mb-8 text-4xl font-bold text-black sm:text-5xl md:mb-12 md:text-6xl ">
                                 <span className=''> Wel</span>come to <span className=''>EcoCool</span><span className='text-green-400 font-bold underline '>Sustain.com</span>
